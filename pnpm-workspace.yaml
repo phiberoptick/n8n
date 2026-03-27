@@ -21,7 +21,7 @@ catalog:
   '@codemirror/state': 6.5.3
   '@codemirror/view': 6.39.8
   '@langchain/anthropic': 1.1.3
-  '@langchain/community': 1.1.14
+  '@langchain/community': 1.1.18
   '@langchain/core': 1.1.34
   '@langchain/openai': 1.1.3
   '@lezer/common': 1.5.0
@@ -49,7 +49,7 @@ catalog:
   eslint: 9.29.0
   fast-glob: 3.2.12
   fastest-levenshtein: 1.0.16
-  flatted: 3.2.7
+  flatted: 3.4.2
   form-data: 4.0.4
   http-proxy-agent: 7.0.2
   https-proxy-agent: 7.0.6
@@ -125,8 +125,8 @@ catalogs:
     '@storybook/addon-themes': ^10.1.11
     '@storybook/addon-vitest': ^10.1.11
     '@storybook/vue3-vite': ^10.1.11
-    eslint-plugin-storybook: ^10.1.11
-    storybook: ^10.1.11
+    eslint-plugin-storybook: ^10.2.10
+    storybook: ^10.2.10
 
 minimumReleaseAge: 4320
 
